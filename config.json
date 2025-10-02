@@ -22,7 +22,7 @@
     "100093016749575"
   ],
   "whiteListMode": {
-    "enable": false,
+    "enable": true,
     "whiteListIds": [
       "100093016749575"
       
@@ -141,7 +141,7 @@
     "updatePresence": true,
     "listenTyping": true,
     "logLevel": "error",
-    "selfListen": false,
+    "selfListen": true,
     "selfListenEvent": true,
     "autoMarkDelivery": false,
     "autoReconnect": false,
