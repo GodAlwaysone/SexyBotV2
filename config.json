@@ -19,14 +19,12 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100093016749575",
-    "61578748432444"
+    "100093016749575"
   ],
   "whiteListMode": {
-    "enable": true,
+    "enable": false,
     "whiteListIds": [
-      "100093016749575",
-      "61578748432444"
+      "100093016749575"
       
     ],
     "notes": "Only the IDs in whiteListIds can use the bot if enabled."
@@ -143,7 +141,7 @@
     "updatePresence": true,
     "listenTyping": true,
     "logLevel": "error",
-    "selfListen": true,
+    "selfListen": false,
     "selfListenEvent": true,
     "autoMarkDelivery": false,
     "autoReconnect": false,
